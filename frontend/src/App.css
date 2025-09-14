@@ -1,0 +1,35 @@
+/* Lilac Theme */
+
+/* Navbar */
+.navbar-lilac {
+  background-color: #c8a2c8 !important;
+}
+
+/* Buttons */
+.btn-lilac {
+  background-color: #c8a2c8;
+  color: white;
+  border: none;
+}
+.btn-lilac:hover {
+  background-color: #a678a6;
+  color: white;
+}
+
+.btn-outline-lilac {
+  border: 1px solid #c8a2c8;
+  color: #c8a2c8;
+}
+.btn-outline-lilac:hover {
+  background-color: #c8a2c8;
+  color: white;
+}
+
+/* Cards */
+.card-lilac {
+  background: #f3e6f5;
+  border: 1px solid #c8a2c8;
+}
+.card-lilac .card-title {
+  color: #6f42c1;
+}
