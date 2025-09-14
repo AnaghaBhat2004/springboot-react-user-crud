@@ -1,0 +1,22 @@
+# Java / Spring Boot
+/target/
+*.class
+*.jar
+*.war
+*.ear
+
+# Logs
+*.log
+
+# IDE files
+/.idea/
+/.vscode/
+/*.iml
+
+# React frontend
+/frontend/node_modules/
+/frontend/build/
+
+# OS junk
+.DS_Store
+Thumbs.db
